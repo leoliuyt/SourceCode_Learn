@@ -1,0 +1,18 @@
+//
+//  SDWebImageSourceCodeDemo.pch
+//  SDWebImageSourceCodeDemo
+//
+//  Created by leoliu on 15/9/11.
+//  Copyright (c) 2015年 leoliu. All rights reserved.
+//
+
+#ifndef SDWebImageSourceCodeDemo_SDWebImageSourceCodeDemo_pch
+#define SDWebImageSourceCodeDemo_SDWebImageSourceCodeDemo_pch
+
+#define MAS_SHORTHAND
+
+#define MAS_SHORTHAND_GLOBALS
+
+#import "Masonry.h"
+
+#endif
